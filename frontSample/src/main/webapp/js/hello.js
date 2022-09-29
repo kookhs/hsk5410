@@ -1,5 +1,5 @@
 /**
- * kook
+ * kookhs
  */
 
 function hello(name) {
